@@ -1,0 +1,26 @@
+{
+  "name": "jquery.rowselect",
+  "version": "0.1.0",
+  "description": "Módulo para seleccionar un checkbox asociado a una fila de una tabla al hacer click en cualquier parte de la fila",
+  "main": "jquery.rowselect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AyerViernes/jquery.rowselect.git"
+  },
+  "keywords": [
+    "jquery",
+    "interaction",
+    "design",
+    "patterns",
+    "ayerviernes"
+  ],
+  "author": "Basilio Cáceres <bcaceres@ayerviernes.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AyerViernes/jquery.rowselect/issues"
+  },
+  "homepage": "https://github.com/AyerViernes/jquery.rowselect"
+}
